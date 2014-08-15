@@ -12,18 +12,18 @@ defaults:
     scope:
       path: "" # empty string for all files
     values:
-      title: dbyll
+      title: fork.ch
 
-description: Stylish Jekyll Theme
+description: pid_t fork(void);
+title: fork.ch
 author:
-  name: dbyll
-  email: dbyll@ismaildemirbilek.com
-  github: dbtek
-  twitter: dbtek
-  pinterest: asd123
-  linkedin: asd123
-  bio: Your stylish, minimalist theme!
-  email_md5: 726351295ec82e145928582f595aa3aa
+  name: Ben
+  email: news@fork.ch
+  github: forkch
+  twitter: fork_ch
+  linkedin: 
+  bio: coder, hamster breeder
+  email_md5: 3ae0c04be7d4977875531b22d992d517
 
 rss_path: feed.xml
 categories_path: categories.html
